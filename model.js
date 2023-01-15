@@ -6,7 +6,7 @@ const chatPost = new Schema({
     type: String,
     required: true
   },
-  chat: {
+  message: {
     type: String,
     required: true
   }
